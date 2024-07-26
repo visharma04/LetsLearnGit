@@ -10,6 +10,7 @@ public class Sum {
         int b= sc.nextInt();
         int c= (a+b);
         System.out.println("The sum is:"+c);
+        System.out.println("the new command of git is here");
 
     }
 }
